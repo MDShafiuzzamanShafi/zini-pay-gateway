@@ -1,0 +1,1 @@
+// index.php content placeholder

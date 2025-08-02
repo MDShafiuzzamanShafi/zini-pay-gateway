@@ -1,0 +1,1 @@
+// 2023_01_01_000000_create_transactions_table.php content placeholder

@@ -1,0 +1,1 @@
+// admin.blade.php content placeholder
